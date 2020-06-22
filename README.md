@@ -27,8 +27,14 @@ By providing yourself a space to get specific about what you want and why, youll
 4. To view the application in your browser, cd into the project from your terminal with ```cd goalsplain```, and type ```yarn start```
 
 ***NOTES ALONG THE WAY OF MAKING THIS APPLICATION***
+
 - When using decorators I came to a warning VSCode was giving me, and I followed the instructions for [this speedy tutorial](https://ihatetomatoes.net/how-to-remove-experimentaldecorators-warning-in-vscode/) to get it to go away 💃
 - couldnt run yarn start at first until I made some changes, thanks to the guidance of the number one response from [this stack overflow post](https://stackoverflow.com/questions/53230930/react-mobx-error-the-decorators-plugin-requires-a-decoratorsbeforeexport-op). booya
+- cool trick: if you reference an element in react, you can access and assess its value with this command in the terminal: $r.{insert_ref_name_here}.value
+
+
+
+
 
 ***INFO BELOW CREATED BY DEFAULT***
 

@@ -10,7 +10,7 @@ class Goal {
 
   // any time you want to access the data and perform some sort of calculation on it, and have that calculation be reflected in real time with component, use computed
   @computed get goalCount () {
-    return this.goals.size;
+    return this.goals.length;
   }
 }
 
