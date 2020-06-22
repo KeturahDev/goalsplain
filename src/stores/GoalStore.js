@@ -4,7 +4,7 @@ class Goal {
   @observable goals = [];
 
   //function that performs a change to the store = action
-  @action addGoald = (goal) => {
+  @action addGoal = (goal) => {
     this.goals.push(goal)
   }
 
