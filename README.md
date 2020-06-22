@@ -1,8 +1,8 @@
-# goalsplain
-### By Keturah Howard, June 2020
-
+# Goalsplain
+### By ***Keturah Howard, June 2020***
+*following along [this tutorial](https://youtu.be/Dp75-DnGFrU) for basic concepts of MobX*
 ## Description
-A place to write list out your goals to view in detail all the things your want to accomplish. On the front page, enter some goals. Then, when your ready, click on one and go in depth on the details: why do you want to accomplish that? How is it going to feel? What does it look like? 
+This is a place to write list out your goals to view in detail all the things your want to accomplish. On the front page, enter some goals. Then, when your ready, click on one and go in depth on the details: why do you want to accomplish that? How is it going to feel? What does it look like? 
 
 By providing yourself a space to get specific about what you want and why, youll be motivating yourself and mentally prepparing to go out there and get it. Details help us to better understand the world and ourselves - lets bring that to your goals. 
 
