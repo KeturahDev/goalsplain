@@ -1,4 +1,4 @@
-# Goalsplain
+# ✨Goalsplain ✨
 ### By ***Keturah Howard, June 2020***
 *following along [this tutorial](https://youtu.be/Dp75-DnGFrU) for basic concepts of MobX*
 ## Description
@@ -26,6 +26,8 @@ By providing yourself a space to get specific about what you want and why, youll
 3. Open in your code editor: for VSCode, type ```code goalsplain```
 4. To view the application in your browser, cd into the project from your terminal with ```cd goalsplain```, and type ```yarn start```
 
+***NOTES ALONG THE WAY OF MAKING THIS APPLICATION***
+- When using decorators I came to a warning VSCode was giving me, and I followed the instructions for [this speedy tutorial](https://ihatetomatoes.net/how-to-remove-experimentaldecorators-warning-in-vscode/) to get it to go away 💃
 
 ***INFO BELOW CREATED BY DEFAULT***
 
