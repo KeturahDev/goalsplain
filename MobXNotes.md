@@ -2,6 +2,7 @@
 ***Just a place where Im gonna talk about key points ofr working with MobX***
 
 * Actions are functions that can work directly with observables
+* MobX decorators can only be used on class components
 ### Why actions work with observables
 tutorial dude said: " stores dont have to be immutable"
 
