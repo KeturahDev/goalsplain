@@ -1,3 +1,34 @@
+# goalsplain
+### By Keturah Howard, June 2020
+
+## Description
+A place to write list out your goals to view in detail all the things your want to accomplish. On the front page, enter some goals. Then, when your ready, click on one and go in depth on the details: why do you want to accomplish that? How is it going to feel? What does it look like? 
+
+By providing yourself a space to get specific about what you want and why, youll be motivating yourself and mentally prepparing to go out there and get it. Details help us to better understand the world and ourselves - lets bring that to your goals. 
+
+*This is a practice application to experiment with MobX and refine React skills*
+
+## Technologies Used
+- React
+- MobX
+- Yarn
+- CSS
+
+## Plans for the future
+- Authorization (either with Firestore or Node.js/Mongo DB/GraphQL)
+- Costomizable colors / layout for goals details page
+- Collaborability (web sockets)
+- hosted
+
+## Instalation and Set Up
+1. On this github repo: click clone and copy the link.
+2. In your terminal (aka bash), navigate to the directory you want this application to live, and type ``` git clone https://github.com/KeturahDev/goalsplain.git```
+3. Open in your code editor: for VSCode, type ```code goalsplain```
+4. To view the application in your browser, cd into the project from your terminal with ```cd goalsplain```, and type ```yarn start```
+
+
+***INFO BELOW CREATED BY DEFAULT***
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
