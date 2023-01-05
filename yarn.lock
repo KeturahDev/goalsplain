@@ -409,15 +409,6 @@
     "@babel/helper-plugin-utils" "^7.8.3"
     "@babel/plugin-syntax-decorators" "^7.8.3"
 
-"@babel/plugin-proposal-decorators@^7.10.3":
-  version "7.10.3"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-proposal-decorators/-/plugin-proposal-decorators-7.10.3.tgz#2fc6b5696028adccfcd14bc826c184c578b857f8"
-  integrity sha512-Rzwn5tcYFTdWWK3IrhMZkMDjzFQLIGYqHvv9XuzNnEB91Y6gHr/JjazYV1Yec9g0yMLhy1p/21eiW1P7f5UN4A==
-  dependencies:
-    "@babel/helper-create-class-features-plugin" "^7.10.3"
-    "@babel/helper-plugin-utils" "^7.10.3"
-    "@babel/plugin-syntax-decorators" "^7.10.1"
-
 "@babel/plugin-proposal-dynamic-import@^7.8.3":
   version "7.8.3"
   resolved "https://registry.yarnpkg.com/@babel/plugin-proposal-dynamic-import/-/plugin-proposal-dynamic-import-7.8.3.tgz#38c4fe555744826e97e2ae930b0fb4cc07e66054"
@@ -488,13 +479,6 @@
   integrity sha512-tycmZxkGfZaxhMRbXlPXuVFpdWlXpir2W4AMhSJgRKzk/eDlIXOhb2LHWoLpDF7TEHylV5zNhykX6KAgHJmTNw==
   dependencies:
     "@babel/helper-plugin-utils" "^7.8.0"
-
-"@babel/plugin-syntax-decorators@^7.10.1":
-  version "7.10.1"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-syntax-decorators/-/plugin-syntax-decorators-7.10.1.tgz#16b869c4beafc9a442565147bda7ce0967bd4f13"
-  integrity sha512-a9OAbQhKOwSle1Vr0NJu/ISg1sPfdEkfRKWpgPuzhnWWzForou2gIeUIIwjAMHRekhhpJ7eulZlYs0H14Cbi+g==
-  dependencies:
-    "@babel/helper-plugin-utils" "^7.10.1"
 
 "@babel/plugin-syntax-decorators@^7.8.3":
   version "7.8.3"
@@ -6326,9 +6310,9 @@ json3@^3.3.2:
   integrity sha512-c7/8mbUsKigAbLkD5B010BK4D9LZm7A1pNItkEwiUZRpIN66exu/e7YQWysGun+TRKaJp8MhemM+VkfWv42aCA==
 
 json5@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/json5/-/json5-1.0.1.tgz#779fb0018604fa854eacbf6252180d83543e3dbe"
-  integrity sha512-aKS4WQjPenRxiQsC93MNfjx+nbF4PAdYzmd/1JIj8HYzqfbu86beTuNgXDzPknWk0n0uARlyewZo4s++ES36Ow==
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/json5/-/json5-1.0.2.tgz#63d98d60f21b313b77c4d6da18bfa69d80e1d593"
+  integrity sha512-g1MWMLBiz8FKi1e4w0UyVL3w+iJceWAFBAaBnnGKOpNa5f8TLktkbre1+s6oICydWAm+HRUGTmI+//xv2hvXYA==
   dependencies:
     minimist "^1.2.0"
 
@@ -6821,9 +6805,9 @@ minimist@0.0.8:
   integrity sha1-hX/Kv8M5fSYluCKCYuhqp6ARsF0=
 
 minimist@^1.1.1, minimist@^1.2.0, minimist@^1.2.5:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
-  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
+  version "1.2.7"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.7.tgz#daa1c4d91f507390437c6a8bc01078e7000c4d18"
+  integrity sha512-bzfL1YUZsP41gmu/qjrEk0Q6i2ix/cVeAhbCbqH9u3zYutS1cLg00qhrD0M2MVdCcx4Sc0UpP2eBWo9rotpq6g==
 
 minipass-collect@^1.0.2:
   version "1.0.2"
